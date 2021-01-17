@@ -1,0 +1,23 @@
+body{	background-image: url(night-4833149_1920.jpg);
+		background-size: cover;	
+	}
+.master-controls{
+	text-align: center;
+}
+.tape{
+	text-align: center;
+	margin-top: 200px;
+}
+.tape-controls-play{
+	width:90px;
+	height: 90px;
+	font-size:30px;
+    border: 2px solid transparent;
+	border-radius: 90px;
+}
+ 
+.tape-controls-play:hover {
+    background: transparent;
+    color: #FFF;
+    border-color: #E9B112;
+}
